@@ -1,21 +1,6 @@
-### Bienvenue sur mon Git 👋
+### Welcome on my Git 👋
 
 I'm current looking for a web developer job
-
-Skills  
-#### Front-end
-* HTML5, CSS, Bootstrap
-* Javascript, JQuery
-### Back-end
-* NodeJS
-* Express.js
-### SGBD
-* PostgreSQL
-* MySQL
-### Other language
-* Java
-* OCAML
-* C
 
 If you want to see my repsitory, send an email to this address : jules.courtin@gmail.com
 <!--
